@@ -8,9 +8,6 @@
   - Location: Madrid, Spain
   - LinkedIn: [https://www.linkedin.com/in/mmhdez](https://www.linkedin.com/in/mmhdez)
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a double degree in Energy and Industrial Management Engineering and am passionate about Formula Student competitions!
-
 ---
 
 ### 📊 GitHub Stats
